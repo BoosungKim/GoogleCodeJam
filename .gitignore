@@ -157,3 +157,11 @@ storecredit/target/streams/test/externalDependencyClasspath/$global/streams/expo
 storecredit/target/streams/test/managedClasspath/$global/streams/export
 storecredit/target/streams/test/unmanagedClasspath/$global/streams/export
 storecredit/target/streams/test/unmanagedJars/$global/streams/export
+ReverseWords/large.out
+ReverseWords/small.out
+.idea/.name
+.idea/GoogleCodeJam.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
