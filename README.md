@@ -1,3 +1,3 @@
 # GoogleCodeJam
 
--https://code.google.com/codejam/contests.html
+- https://code.google.com/codejam/contests.html
